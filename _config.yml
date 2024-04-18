@@ -4,4 +4,4 @@ plugins:
 
 collections:
   games:
-    output: true
+    output: "/games/"
