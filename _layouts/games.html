@@ -1,8 +1,7 @@
 ---
 layout: default
 ---
-<h1>Добро пожаловать на сайт с играми!</h1>
-<p>Вот список доступных игр:</p>
+<h1>Список игр</h1>
 <ul>
   {% for game in site.games %}
     <li><a href="{{ game.url }}">{{ game.title }}</a></li>
