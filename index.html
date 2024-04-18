@@ -1,10 +1,33 @@
----
-layout: default
----
-<h1>Добро пожаловать на сайт с играми!</h1>
-<p>Вот список доступных игр:</p>
-<ul>
-  {% for game in site.games %}
-    <li><a href="{{ game.url }}">{{ game.title }}</a></li>
-  {% endfor %}
-</ul>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+    <h1>Unimix Studio</h1>
+    <h2>OUR GAMES</h2>
+    <!-- Информация о игре -->
+    <div>
+        <img src="/icons/unimix.studio.wolf.simulator.png" alt="Wolf Family Simulator">
+        <h2>Wolf Family Simulator</h2>
+        <p>Play as a real wolf and become the most powerful in this fall forest!</p>
+        <!-- Ссылка на Google Play -->
+        <a
+            href='https://play.google.com/store/apps/details?id=unimix.studio.wolf.simulator&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img
+                alt='Get it on Google Play'
+                src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' /></a>
+
+        <!-- Ссылка на App Store -->
+
+        <a href="https://apps.apple.com/us/app/wild-forest-wolf-simulator/id6477607458?itsct=apps_box_badge&amp;itscg=30200"
+            style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img
+                src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1708646400"
+                alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+    </div>
+</body>
+
+</html>
