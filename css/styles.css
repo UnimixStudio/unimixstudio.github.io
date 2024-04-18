@@ -17,6 +17,9 @@ h1 {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     padding: 20px;
 }
+.container + .container {
+    margin-top: 20px;
+}
 .form-group {
     margin-bottom: 20px;
 }

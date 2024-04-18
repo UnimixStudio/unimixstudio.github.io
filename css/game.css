@@ -3,7 +3,18 @@
     height: 100%;
     width: 100%;
 }
-
+.game-container {
+    margin-top: 20px; /* Добавляем отступ между логотипом и описанием */
+    padding-top: 20px; /* Добавляем отступ над описанием */
+}
+.game-container img {
+    margin-bottom: 20px; /* Добавляем отступ между логотипом игры и текстом */
+}
+.game-logo {
+    display: block;
+    margin: 0 auto 100px; /* Отступ снизу и автоматическое выравнивание по центру */
+    text-align: center; /* Выравниваем содержимое внутри блока по центру */
+}
 #game {
     position: fixed;
     top: 0;
