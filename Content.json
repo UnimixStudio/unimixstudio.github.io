@@ -1,0 +1,41 @@
+{
+  "Content" : 
+  [
+    {
+      "ID" : "MainMenuIcon",
+      "Content" : "Icon_2048.png"
+    },
+    {
+      "ID" : "Ad Image 1",
+      "Content" : "1.png"
+    },
+     {
+      "ID" : "Ad Title 1",
+      "Content" : "Title 1"
+    },
+    {
+      "ID" : "Ad Image 2",
+      "Content" : "2.png"
+    },
+    {
+      "ID" : "Ad Title 2",
+      "Content" : "Title 2"
+    },
+    {
+      "ID" : "Ad Image 3",
+      "Content" : "3.png"
+    },
+    {
+      "ID" : "Ad Title 3",
+      "Content" : "Title 3"
+    },
+    {
+      "ID" : "Ad Image 4",
+      "Content" : "4.png"
+    },
+    {
+      "ID" : "Ad Title 4",
+      "Content" : "Title 4"
+    }
+  ]
+}
