@@ -14,6 +14,7 @@
     display: block;
     margin: 0 auto 100px; /* Отступ снизу и автоматическое выравнивание по центру */
     text-align: center; /* Выравниваем содержимое внутри блока по центру */
+    padding-top: 30px;
 }
 #game {
     position: fixed;
