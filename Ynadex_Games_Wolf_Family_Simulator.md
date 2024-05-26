@@ -7,7 +7,7 @@
 Сейчас стартовый экран для всех языков отображается на русском языке. Смена языка становится доступной только после создания персонажа
 
 Вложения:
-- <video width="320" height="240" controls autoplay>
+- <video width="320" height="240" controls>
   <source src="https://games.s3.yandex.net/videos/297471/yba8gkna85gk35zpt2w71i0tgnljgeo6.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -44,7 +44,7 @@
 
 - Согласно п. 8.4.2 Требований платформы в игре должны отсутствовать ссылки на любые виды ресурсов: сайт создателя игры или самой игры, игровые сторы и студии, сторонние игры, сайты партнеров, скачивание файлов или вредоносные страницы, а также в составе логотипов и других графических элементов. В качестве исключения допускается размещение графического бренда компании-партнера или создателя без указания домена или других элементов URL.  
 Вложения:
-- <video width="320" height="240" controls autoplay>
+- <video width="320" height="240" controls>
   <source src="https://modgames.s3.yandex.net/5d41f162-010a-439c-bcd5-d27f465ae346" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -52,7 +52,7 @@
 - При показе полноэкранной рекламы (интерстишел/rewarded video) звук в игре не ставится на паузу, это не соответствует п. 4.7 требований.  
 Вложения:
 
-- <video width="320" height="240" controls autoplay>
+- <video width="320" height="240" controls>
   <source src="https://modgames.s3.yandex.net/e8869ff6-6fd4-4159-86ba-587d7e4a212e" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -60,7 +60,7 @@
 - Реклама показывается в логических паузах: перед началом игры или работы с WebApp, при переходе на следующий уровень, после завершения игры или выполнения основной задачи WebApp. Например, в играх-викторинах можно показывать рекламу при получении результатов, но не во время отображения вопросов и вариантов ответов. Подробнее: https://yandex.ru/dev/games/doc/ru/requirements/4/4/1. Сейчас рекламный блок появляется в момент, когда на экране присутствуют активные кнопки
 Вложения:
 
-- <video width="320" height="240" controls autoplay>
+- <video width="320" height="240" controls>
   <source src="https://modgames.s3.yandex.net/49d9cf22-42d2-4b7c-91dd-dee976b5973f" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -68,7 +68,7 @@
 - Прогресс в игре не сохраняется/сохраняется некорректно, это не соответствует п. 1.9 Требований. Прогресс в игре сбрасывается после обновления страницы. Сейчас прогресс сохраняется некорректно
 Вложения:
 
-- <video width="320" height="240" controls autoplay>
+- <video width="320" height="240" controls>
   <source src="https://modgames.s3.yandex.net/77f03088-e44a-4abc-9b41-1d8232269b3f" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -76,7 +76,7 @@
 - После перехода на другую вкладку, звук/музыка в игре продолжает воспроизводиться - это не соответствует пункту 1.3 требований платформы.  
 Вложения:
 
-- <video width="320" height="240" controls autoplay>
+- <video width="320" height="240" controls>
   <source src="https://modgames.s3.yandex.net/52b487a4-7bb3-40c4-985d-cda736fd7a3f" type="video/mp4">
   Your browser does not support the video tag.
 </video>
