@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="css/game.css">
+<link rel="stylesheet" href="css/styles.css">
 
 В ходе проверки были обнаружены следующие замечания:
 
