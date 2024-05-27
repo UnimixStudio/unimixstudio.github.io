@@ -1,0 +1,19 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+.container+.container {
+    margin-top: 20px;
+}
+
+iframe {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    border: none;
+}
