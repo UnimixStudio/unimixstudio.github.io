@@ -72,3 +72,8 @@ iframe
  height: 100%; 
  border: none;
 }
+video
+{
+ width: 320px;
+ height: 240px;
+}
